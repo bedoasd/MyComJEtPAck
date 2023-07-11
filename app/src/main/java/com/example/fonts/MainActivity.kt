@@ -82,6 +82,7 @@ fun ImageCard(
 
             Box(modifier =Modifier.fillMaxSize().padding(16.dp),contentAlignment = Alignment.BottomStart ){
                 Text(text = title , style = TextStyle(color = Color.White))
+                //testOne
             }
 
         }
